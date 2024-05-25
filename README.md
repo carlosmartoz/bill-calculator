@@ -8,6 +8,6 @@
 
 ## 💼 Skills
 
-![](https://img.shields.io/badge/Markup-HTML5-informational?style=for-the-badge&logo=html5&logoColor=EDF2F4&color=0B1622&labelColor=FF0000)
-![](https://img.shields.io/badge/Style-CSS3-informational?style=for-the-badge&logo=css3&logoColor=EDF2F4&color=0B1622&labelColor=FF0000)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=EDF2F4&color=0B1622&labelColor=FF0000)
+![](https://img.shields.io/badge/HTML5-informational?style=for-the-badge&logo=html5&logoColor=EDF2F4&color=0B1622&labelColor=FF0000)
+![](https://img.shields.io/badge/CSS3-informational?style=for-the-badge&logo=css3&logoColor=EDF2F4&color=0B1622&labelColor=FF0000)
+![](https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=EDF2F4&color=0B1622&labelColor=FF0000)
