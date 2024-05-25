@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Calculadora de Facturas</title>
+    <link rel="stylesheet" href="styles.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  </head>
+  <body>
+    <div id="app">
+      <h1>Calculadora de Facturas</h1>
+
+      <main>
+        <article>
+          <div id="clientForm">
+            <div>
+              <label for="name">Nombre:</label>
+              <input type="text" id="name" required />
+            </div>
+
+            <div>
+              <label for="lastname">Apellido:</label>
+              <input type="text" id="lastname" required />
+            </div>
+
+            <div>
+              <label for="dni">DNI:</label>
+              <input type="text" id="dni" required />
+            </div>
+
+            <div>
+              <label for="domicile">Tipo de Domicilio:</label>
+              <select id="domicile" required>
+                <option value="Residencial">Residencial</option>
+                <option value="Comercial">Comercial</option>
+              </select>
+            </div>
+
+            <div>
+              <label for="kw">Consumo (KW):</label>
+              <input type="number" id="kw" required />
+            </div>
+
+            <div>
+              <label for="debt">Deuda:</label>
+              <input type="number" id="debt" />
+            </div>
+
+            <button onclick="addClients()">Agregar Cliente</button>
+          </div>
+        </article>
+
+        <aside>
+          <div id="options">
+            <div>
+              <label for="searchClient">Buscar Cliente:</label>
+              <input type="text" id="searchClient" oninput="searchClient()" />
+            </div>
+
+            <div>
+              <button onclick="orderList()">Ordenar Lista</button>
+              <button onclick="filterDebts()">Filtrar Deudores</button>
+            </div>
+          </div>
+
+          <div id="clientsContainer">
+            <!-- La lista de clientes se mostrará aquí -->
+          </div>
+        </aside>
+      </main>
+    </div>
+
+    <script src="app.js"></script>
+  </body>
+</html>
