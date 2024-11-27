@@ -1,13 +1,11 @@
-# 📄 Introduction
+# Introduction
 
-<div align="center">
-   <h3 align="center">Bill calculator</h3>
+<div>
+   <h3>Hackers News</h3>
 
-   <p align="center">Web application developed for a technical test, designed to calculate invoices accurately and efficiently.</p>
+   <p>Web application for a technical test, displays articles via an API and allows saving articles as favorites.</p>
 </div>
 
-## 💼 Skills
+## Installation
 
-![](https://img.shields.io/badge/HTML5-informational?style=for-the-badge&logo=html5&logoColor=EDF2F4&color=0B1622&labelColor=FF0000)
-![](https://img.shields.io/badge/CSS3-informational?style=for-the-badge&logo=css3&logoColor=EDF2F4&color=0B1622&labelColor=FF0000)
-![](https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=EDF2F4&color=0B1622&labelColor=FF0000)
+1. Just open in your browser or use any local server.
