@@ -1,9 +1,9 @@
 # Introduction
 
 <div>
-   <h3>Hackers News</h3>
+   <h3>Bill Calculator</h3>
 
-   <p>Web application for a technical test, displays articles via an API and allows saving articles as favorites.</p>
+   <p>Web application developed for a technical test, designed to calculate invoices accurately and efficiently.</p>
 </div>
 
 ## Installation
